@@ -1,18 +1,18 @@
 title:              "어른아이 마케터"
 tagline:            "마케터의 생각 담금질 공간"
-email:              "kidult.marketer@gmail.com"
-description:        "마케터의 생각 담금질 공간"
+email:              "kidult.marketer+blog@gmail.com"
+description:        "아이와 어른사이, 아날로그와 디지털 사이.<br>그 사이 균형점을 찾고 싶은 마케터 성장기록"
 author:             "승우"
 baseurl:            "/"
-url:                "https://도메인"
+url:                "https://kidult-marketer.com/"
 locale:             "ko_KR"
-thumbnail:          "/img/thumbnail.jpg"
+thumbnail:          "/img/1280x628_w_title.png"
 
 # Social Profiles
-twitter_username:   twitter_username
-instagram_username: instagram_username
-facebook_username:  facebook_username
-linkedin_username:  linkedin_username
+# twitter_username:   twitter_username
+instagram_username: astro_sw
+facebook_username:  astrosw
+linkedin_username:  seungwoo-yoo-5755a933
 
 # Build settings
 markdown:           kramdown
