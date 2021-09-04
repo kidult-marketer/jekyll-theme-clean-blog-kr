@@ -15,8 +15,10 @@ tags:
 description: '가치체안 = 고객과 약속하기'
 ---
 
-마케팅 기본기 다지기, 3번째 글.  
-앞선 2편의 글을 통해 마케팅이란 개념(정의)를 이해하고, 마케팅 대상으로 ‘누구’와 관계를 쌓아갈 것인지에 대해서 이야기 했습니다.
+마케팅 기본기 다지기, 3번째 글.   
+
+앞선 2편의 글을 통해 마케팅이란 개념(정의)을 이해하고,<br>
+마케팅 대상으로 ‘누구’와 관계를 쌓아갈 것인지에 대해서 이야기 했습니다.
 
 이어지는 오늘의 이야기는 <u><strong>‘가치 제안’</strong></u> 입니다.   
 역시 동일하게 마케팅 정의부터해서 시작해보죠. (중요하니까-!)
@@ -52,12 +54,13 @@ description: '가치체안 = 고객과 약속하기'
 먼저 **에어비앤비**입니다.   
 에어비앤비의 미션은 **‘모두가 소속감을 느낄 수 있는 세상을 만든다’**(we create a world where anyone can belong anywhere)입니다.
 
-![에어비앤비미션](/img/posts/04/airbnb-brand-mission-1.png)   
-<출처: [에어비앤비 공식홈페이지](https://news.airbnb.com/airbnb-2019-business-update/)>   
+![에어비앤비미션](/img/posts/04/airbnb-brand-mission-2.png)   
+<cite>airbnb.com</cite> --- [News:2019 business update](https://news.airbnb.com/airbnb-2019-business-update/)
+{: .small}
 
 여기서 핵심은 **소속감(belong anywhere)**입니다. 소속감이 에어비앤비가 고객에게 전하고자 하는 차별화된 가치제안입니다. 여행을 통해 낯선 곳을 도착했지만, 머무르는 곳이 긴장을 풀어주는 환대와 편안함이 있다면,  마치 또 하나의 집처럼 느껴지는 공간 되어줄 수 있다면 어떨까하는 것 처럼 말이죠.
 
-그렇게 현지인 처럼 머물고 생활하는 것이 여행의 완성이라고 이야기 하는 것이죠. 이 브랜드 가치의 연장선에서 펼쳐진 [‘여행은 살아보는거야’(Live There)](http://naver.me/5U1cLNuW)브랜드 캠페인은 그런만큼 자연스럽게 이야기가 전달 될 수 있었던 좋은 캠페인이라고 생각됩니다.  
+그렇게 현지인 처럼 머물고 생활하는 것이 여행의 완성이라고 이야기 하는 것이죠. 이 브랜드 가치의 연장선에서 펼쳐진 [<span style="color:#4285F4">‘여행은 살아보는거야’(Live There)</span>](http://naver.me/5U1cLNuW)브랜드 캠페인은 그런만큼 자연스럽게 이야기가 전달 될 수 있었던 좋은 캠페인이라고 생각됩니다.  
 
 여행이 더 이상 유명 핫스팟을 찍기 보다는 취향 따라 관심사 따라 나만의 여행을 설계하고 느긋하게 머물고 체험하는 형태로 점점 바뀌었죠. 이런 트렌드 속에 에어비앤비는 현지인의 집에 머무르는 경험 그 자체를 여행이 주는 선물로 생각한 것일테죠.
 
@@ -67,7 +70,8 @@ description: '가치체안 = 고객과 약속하기'
 나이키의 미션은 **‘이 세상 모든 운동선수들에게 영감과 혁신을 선사한다’**(bring inspiration and innovation to every athlete in the world)입니다. 여기서 모든 운동선수는 주석이 달려있어요. 찐 스포츠 선수만이 아닌, 몸!만 있다면 누구나 운동선수라고 합니다. (사실상 전 세계인 누구나 운동선수라고 한 셈이죠.)
 
 ![나이키브랜드미션](/img/posts/04/nike-brand-mission.png)   
-<출처: [나이키 공식홈페이지](https://about.nike.com/)>
+<cite>nike.com</cite> --- [Read Nike's Mission Statement](https://about.nike.com/)   
+{: .small}
 
 이렇듯 경기장 안-밖에서 누구나 육체가 있고 성취하고 싶은 목표가 있고 도전하려고 움직인다면 나이키가 곁에서 응원하겠다는 것이죠. 그러니 고민 그만하고, 그냥 해봐!(Just do it)라고 외칩니다.
 
@@ -78,10 +82,10 @@ description: '가치체안 = 고객과 약속하기'
 
 제품도 제품이지만 나이키가 특히 잘하는 것은 꾸준한 브랜드 캠페인을 통해 **정신적인 가치제안**을 하는 것입니다. 주로 브랜드 캠페인은 도전하고 행동(just do it)하라는 주제를 가지고 일관되게 이야기 합니다. 이 일관된 주제를 가지고 무섭게도 **‘지속적’**으로 매년 꾸준하게 이야기 합니다. 그것이 켜켜이 쌓여서 큰 힘으로(브랜드 심상) 고객에게는 쌓이는 셈이죠. 마케터로서 매년 보는 재미가 있다고 할까요? 올해는 무엇일지 하며 나이키 광고와 메세지를 기대하게 만들면서 보게하는 힘이 있습니다.
 
-[1인칭 시점(take it to the next level) 다이나믹한 광고](https://youtu.be/VP7ZDykonzE), 너를 외쳐봐, [30주년 캠페인 Dream Crazy](https://youtu.be/pwwypudDvLI) 등 재미있고 의미있는 캠페인 사례도 많은데요. 그래도 특히 브랜드 가치와 맞물려서 1개를 꼽자면 작년(2020년)에 공개했던 바로 You Can’t Stop Us 캠페인 영상입니다.
+[<span style="color:#4285F4">1인칭 시점(take it to the next level) 다이나믹한 광고</span>](https://youtu.be/VP7ZDykonzE), [<span style="color:#4285F4">너를 외쳐봐</span>](https://youtu.be/ONLW-q4S8Gg), [<span style="color:#4285F4">30주년 캠페인 Dream Crazy</span>](https://youtu.be/pwwypudDvLI) 등 재미있고 의미있는 캠페인 사례도 많은데요. 그래도 특히 브랜드 가치와 맞물려서 1개를 꼽자면 작년(2020년)에 공개했던 바로 You Can’t Stop Us 캠페인 영상입니다.
 
 ![나이키광고](/img/posts/04/nike-you-can't-stop-sport-us.png)   
-[<span style="color:blue"> 영상보러가기 ▶</span>](https://youtu.be/7BeaT2LlAQ8)
+[<span style="color:#4285F4"> 영상보러가기 ▶</span>](https://youtu.be/7BeaT2LlAQ8)
 
 코시국에 어울리는 메시지와 영상(편집)미...그리고 마지막에 스포츠 단어 위에 US라는 단어거 덧대어 쓰여질때 저만 소름 돋는 건 아니죠? 이만큼 나이키다움을 보여준 영상은 없을거 같아요.
 
@@ -120,4 +124,5 @@ description: '가치체안 = 고객과 약속하기'
 3. 쉽게 전파될 수 있는 단어들을 사용하라
 4. 짧아야한다. 고객들이 초 단위로 읽고 이해할 수 있어야 한다.
 
-출처 : [스타트업 첫 걸음 ‘가치 제안서’ 작성하기 기사](https://www.mk.co.kr/news/business/view/2018/11/736344/)
+<cite> article </cite> --- [스타트업 첫 걸음 ‘가치 제안서’ 작성하기](https://www.mk.co.kr/news/business/view/2018/11/736344/)
+{: .small}
