@@ -73,7 +73,7 @@
     <meta property="article:tag" content="{{ tag }}" />
     {% endfor %}
   {% endif %}
-  <!-- End SEO Tag -->
+
   <!-- Favicon Tag -->
   <link rel="apple-touch-icon" sizes="57x57" href="{{ "/img/icon/apple-icon-57x57.png" | relative_url }}">
   <link rel="apple-touch-icon" sizes="60x60" href="{{ "/img/icon/apple-icon-60x60.png" | relative_url }}">
@@ -93,5 +93,21 @@
   <meta name="msapplication-TileImage" content="{{ "/img/icon/ms-icon-144x144.png" | relative_url }}">
   <meta name="theme-color" content="#ffffff">
   <!-- End Favicon Tag -->
+
+  <!-- End SEO Tag -->
+
+  {% if page.feature %}
+  <script type="application/ld+json">
+     {
+       "@context": "https://schema.org",
+       "@type": "NewsArticle",
+       "headline": "{{ page.title }}",
+       "image": [
+         "{{ site.github.url }}{{ page.feature }}"
+        ],
+       "datePublished": "{{ page.date | date_to_xmlschema }}"
+     }
+     </script>
+  {% endif %}
 
 </head>
