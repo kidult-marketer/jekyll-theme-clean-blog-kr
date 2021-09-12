@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://kidult-marketer.com/sitemap.xml
+#DaumWebMasterTool:83b0b0b6c8a637fb1c7e6c932144ee728ee663454629a2beb9f84a52e80257c7:yW+jE+HZqfx5FHikzuVRfw==
