@@ -1,7 +1,7 @@
 ---
 layout: post
-permalink: /basic-copywriting/
-title: '좋은 카피를 쓰기 위한 3가지 기본기'
+permalink: /sales-copywriting/
+title: '팔리는 카피 쓰기 팁 3가지'
 date: 2021-12-20 21:00:00 +09:00
 feature: '/img/posts/08/08-thumbnail.png'
 categories:
